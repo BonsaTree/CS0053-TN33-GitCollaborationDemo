@@ -1,3 +1,5 @@
+// This program was developed as a sample for CS0053 as a Github Exercise
+
 #include <iostream>
 using namespace std;
 
@@ -10,3 +12,4 @@ int main() {
     cout << "3. Exit" << endl;
     return 0;
 }
+
